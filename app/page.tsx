@@ -71,7 +71,7 @@ const publications = [
     ),
     venue: "Computational Visual Media",
     year: "2026",
-    note: "IF at acceptance: 9.4",
+    note: "IF at acceptance: 18.3",
     href: "https://doi.org/10.26599/CVM.2025.9450511",
   },
   {
