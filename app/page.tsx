@@ -167,21 +167,6 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="content-section" id="awards">
-          <h2>Honors &amp; Awards</h2>
-          <div className="award-list">
-            {awards.map((award) => (
-              <article className="award-row" key={`${award.year}-${award.title}`}>
-                <span className="award-year">{award.year}</span>
-                <p>
-                  <strong>{award.title}</strong>
-                  <span className="award-cn">（{award.detail}）</span>
-                </p>
-              </article>
-            ))}
-          </div>
-        </section>
-
         <section className="content-section" id="service">
           <h2>Academic Service</h2>
           <p className="service-line">
@@ -194,7 +179,7 @@ export default function Home() {
             <h2>Google Scholar</h2>
             <a
               className="scholar-profile-link"
-              href="你的 Google Scholar 主页链接"
+              href="https://howardzheng2001.github.io/"
               target="_blank"
               rel="noreferrer"
             >
@@ -252,6 +237,21 @@ export default function Home() {
           <p className="publication-note">* Equal contribution.</p>
         </section>
 
+        <section className="content-section" id="awards">
+          <h2>Honors &amp; Awards</h2>
+          <div className="award-list">
+            {awards.map((award) => (
+              <article className="award-row" key={`${award.year}-${award.title}`}>
+                <span className="award-year">{award.year}</span>
+                <p>
+                  <strong>{award.title}</strong>
+                  <span className="award-cn">（{award.detail}）</span>
+                </p>
+              </article>
+            ))}
+          </div>
+        </section>
+        
         <footer>
           <p>Last updated: Sep. 2026</p>
         </footer>
