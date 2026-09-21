@@ -189,6 +189,50 @@ export default function Home() {
           </p>
         </section>
 
+        <section className="content-section" id="scholar">
+          <div className="section-title-row">
+            <h2>Google Scholar</h2>
+            <a
+              className="scholar-profile-link"
+              href="你的 Google Scholar 主页链接"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View Profile
+            </a>
+          </div>
+        
+          <div className="scholar-metrics">
+            <div className="scholar-header">
+              <span></span>
+              <span>All</span>
+              <span>Since 2021</span>
+            </div>
+        
+            <div className="scholar-row">
+              <span>Citations</span>
+              <strong>338</strong>
+              <strong>337</strong>
+            </div>
+        
+            <div className="scholar-row">
+              <span>h-index</span>
+              <strong>8</strong>
+              <strong>8</strong>
+            </div>
+        
+            <div className="scholar-row">
+              <span>i10-index</span>
+              <strong>8</strong>
+              <strong>8</strong>
+            </div>
+          </div>
+        
+          <p className="scholar-update">
+            Google Scholar metrics, updated Sep. 2026.
+          </p>
+        </section>
+        
         <section className="content-section" id="publications">
           <h2>Publications</h2>
           <div className="publication-list">
