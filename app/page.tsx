@@ -165,7 +165,7 @@ export default function Home() {
         <section className="content-section" id="service">
           <h2>Academic Service</h2>
           <p className="service-line">
-            <strong>Journal Reviewer:</strong> Knowledge-Based Systems, Fire Technology, Scientific Reports, Information Fusion, International Journal of Wildland Fire, Physics of Fluids
+            <strong>Journal Reviewer:</strong> Knowledge-Based Systems, Expert Systems with Applications, Fire Technology, Scientific Reports, Information Fusion, International Journal of Wildland Fire, Physics of Fluids
           </p>
         </section>
 
