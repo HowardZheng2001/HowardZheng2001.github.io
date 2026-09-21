@@ -138,8 +138,10 @@ export default function Home() {
               hongtao.zheng@connect.polyu.hk
             </a>
           </div>
-
-      <div className="content-column">
+          </div>
+          </aside>
+          
+          <div className="content-column">
         <section className="content-section first-section" id="about">
           <h2>About Me</h2>
           <p>
