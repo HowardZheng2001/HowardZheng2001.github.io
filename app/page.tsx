@@ -137,12 +137,7 @@ export default function Home() {
             <a href="mailto:hongtao.zheng@connect.polyu.hk">
               hongtao.zheng@connect.polyu.hk
             </a>
-            <a href="https://github.com/HowardZheng2001" target="_blank" rel="noreferrer">
-              GitHub
-            </a>
           </div>
-        </div>
-      </aside>
 
       <div className="content-column">
         <section className="content-section first-section" id="about">
