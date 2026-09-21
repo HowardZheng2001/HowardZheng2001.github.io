@@ -137,7 +137,7 @@ export default function Home() {
             <a href="mailto:hongtao.zheng@connect.polyu.hk">
               hongtao.zheng@connect.polyu.hk
             </a>
-            <a href="https://github.com/HTZ2025" target="_blank" rel="noreferrer">
+            <a href="https://github.com/HowardZheng2001" target="_blank" rel="noreferrer">
               GitHub
             </a>
           </div>
