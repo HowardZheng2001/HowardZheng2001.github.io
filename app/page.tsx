@@ -102,7 +102,7 @@ const publications = [
     title: "Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution",
     authors: (
       <>
-        Tailin Wu, Willie Neiswanger, <strong>Hongtao Zheng</strong>, Stefano Ermon, Jure Leskovec
+        Tailin Wu*, Willie Neiswanger*, <strong>Hongtao Zheng*</strong>, Stefano Ermon, Jure Leskovec
       </>
     ),
     venue: "AAAI Conference on Artificial Intelligence (AAAI)",
